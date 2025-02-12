@@ -19,3 +19,5 @@ OpenCV & NumPy (for image processing)
 🚘 Detected Car: Toyota Camry (2022)
 🔢 License Plate: ABC123
 
+Link for ocr: https://drive.google.com/file/d/1YapkAuJdqp-ScZ6ZnhC2ztantPd-iWNf/view?usp=sharing
+Link for make and year model : https://drive.google.com/file/d/1YapkAuJdqp-ScZ6ZnhC2ztantPd-iWNf/view?usp=sharing
